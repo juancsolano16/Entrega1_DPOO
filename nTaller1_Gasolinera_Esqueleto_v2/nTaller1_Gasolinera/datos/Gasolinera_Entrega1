@@ -1,0 +1,13 @@
+tipo:Dinoco:9800:100.0
+tipo:Regular:9750:300.0
+tipo:Premium:24000:80.0
+tipo:Diesel:13470:250.0
+surtidor:Pepito:Dinoco:0.0:Regular:0.0:Premium:0.0:Diesel:0.0
+surtidor:Tomas:Dinoco:0.0:Regular:0.0:Premium:0.0:Diesel:0.0
+surtidor:Pepito:Dinoco:0.0:Regular:0.0:Premium:0.0:Diesel:0.0
+surtidor:Emilio:Dinoco:0.0:Regular:0.0:Premium:0.0:Diesel:0.0
+empleado:Pablo:0
+empleado:Tomas:0
+empleado:Orsi:0
+empleado:Emilio:0
+empleado:Pepito:0
